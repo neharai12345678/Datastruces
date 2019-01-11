@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{4B4ADC38-89EE-4972-BA79-8A4562FE0B07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{4C691181-79A0-4FE0-919B-6C205D7E3D7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{B537211B-7126-4F79-98D4-63022D0B85D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B4ADC38-89EE-4972-BA79-8A4562FE0B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4ADC38-89EE-4972-BA79-8A4562FE0B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4ADC38-89EE-4972-BA79-8A4562FE0B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4ADC38-89EE-4972-BA79-8A4562FE0B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C691181-79A0-4FE0-919B-6C205D7E3D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C691181-79A0-4FE0-919B-6C205D7E3D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C691181-79A0-4FE0-919B-6C205D7E3D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C691181-79A0-4FE0-919B-6C205D7E3D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B537211B-7126-4F79-98D4-63022D0B85D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B537211B-7126-4F79-98D4-63022D0B85D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B537211B-7126-4F79-98D4-63022D0B85D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B537211B-7126-4F79-98D4-63022D0B85D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
